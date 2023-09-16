@@ -1,0 +1,11 @@
+Package: HighContrast
+Title: High Contrast ggplot2 Themes for People with Impaired Vision
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marcus", "Low", , "mlow@duck.com", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0002-4325-2297"))
+Description: These are high contrast themes for use by people with substantially impaired vision. The themes are intended for data exploration rather than publication. The themes all work with ggplot2.
+License: GPL3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
