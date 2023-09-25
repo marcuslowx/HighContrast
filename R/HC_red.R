@@ -18,4 +18,5 @@ panel.background = element_rect(fill = "darkred", colour = "darkred"),
 panel.grid.major = element_line(colour = "white", size = 1, linetype = "solid"),
   panel.grid.minor = element_line(colour = "red", size = 1, linetype = "solid"),
 plot.background = element_rect(fill = "darkred"),
+legend.background = element_rect(fill = "darkred"),
 complete = TRUE)}
