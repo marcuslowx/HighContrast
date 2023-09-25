@@ -19,6 +19,6 @@ panel.grid.major = element_line(colour = "gray", size = 1, linetype = "solid"),
   panel.grid.minor = element_line(colour = "darkgray", size = 1, linetype = "solid"),
 plot.background = element_rect(fill = "black"),
 legend.background = element_rect(fill = "black"),
-legend.background = element_rect(fill = "midnightblue"),
+legend.background = element_rect(fill = "black"),
 complete = TRUE)}
 
